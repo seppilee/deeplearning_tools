@@ -12,8 +12,8 @@
 
 
 # word embeding 
-[wordweb](http://ling.kakaobrain.com/wordweb)
+[wordweb](http://ling.kakaobrain.com/wordweb) </br>
 
 
 # hyperparameter tuning 
-[tensorflow playground](https://playground.tensorflow.org/)
+[tensorflow playground](https://playground.tensorflow.org/) </br>
