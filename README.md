@@ -6,16 +6,16 @@
 
 
 
-# attention visualisation
+## attention visualisation
 
-[softalignments](https://github.com/M4t1ss/SoftAlignments)</br>
+[- softalignments](https://github.com/M4t1ss/SoftAlignments)</br>
 
-[LSTM VIS](https://github.com/HendrikStrobelt/LSTMVis)</br>
-
-
-# word embeding 
-[wordweb](http://ling.kakaobrain.com/wordweb) </br>
+[- LSTM VIS](https://github.com/HendrikStrobelt/LSTMVis)</br>
 
 
-# hyperparameter tuning 
-[tensorflow playground](https://playground.tensorflow.org/) </br>
+## word embeding 
+[- wordweb](http://ling.kakaobrain.com/wordweb) </br>
+
+
+## hyperparameter tuning 
+[- tensorflow playground](https://playground.tensorflow.org/) </br>
