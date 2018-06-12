@@ -7,8 +7,10 @@
 
 
 # attention visualisation
-[softalignments](https://github.com/M4t1ss/SoftAlignments)
-[LSTM VIS](https://github.com/HendrikStrobelt/LSTMVis)
+
+[softalignments](https://github.com/M4t1ss/SoftAlignments)</br>
+
+[LSTM VIS](https://github.com/HendrikStrobelt/LSTMVis)</br>
 
 
 # word embeding 
