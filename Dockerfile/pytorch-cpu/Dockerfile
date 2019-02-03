@@ -28,7 +28,6 @@ RUN locale-gen ko_KR.UTF-8
 RUN echo 'export LC_ALL=ko_KR.UTF-8' >> ~/.bashrc
 RUN echo 'export LANG=ko_KR.UTF-8' >> ~/.bashrc
 RUN echo 'export LANGUAGE=ko_KR.UTF-8' >> ~/.bashrc
-RUN source  ~/.bashrc
 
 
 # Create a working directory
